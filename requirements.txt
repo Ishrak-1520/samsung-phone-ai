@@ -1,0 +1,22 @@
+# Web scraping
+requests==2.34.2
+beautifulsoup4==4.15.0
+
+# Database & ORM
+SQLAlchemy==2.1.8
+psycopg2-binary==2.9.13
+pgvector==0.5.1
+
+# LLM & RAG
+langchain-core==1.8.1
+langchain-ollama==1.1.0
+
+# Web API
+fastapi==0.163.1
+uvicorn==0.54.0
+pydantic==2.14.3
+httpx==0.28.1
+
+# Configuration
+python-dotenv==1.2.4
+
